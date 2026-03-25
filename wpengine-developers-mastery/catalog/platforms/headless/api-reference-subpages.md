@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Reference pages define programmatic interactions for platform automation.
+Reference pages define programmatic interactions for platform automation. [source:atlas-api-reference]
 
 ## Knowledge categories to catalog per API subpage
 
@@ -19,3 +19,7 @@ Reference pages define programmatic interactions for platform automation.
 3. Build minimal request.
 4. Parse response and assert success condition.
 5. Add retry/backoff only where safe.
+
+## Source Links
+
+- [source:atlas-api-reference] https://developers.wpengine.com/docs/atlas/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas docs section root

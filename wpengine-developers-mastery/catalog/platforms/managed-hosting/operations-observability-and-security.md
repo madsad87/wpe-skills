@@ -2,7 +2,7 @@
 
 ## Knowledge contained
 
-- Log access and incident triage basics.
+- Log access and incident triage basics. [source:managed-hosting-docs]
 - Backup/restore workflows and disaster recovery posture.
 - Security hardening checkpoints and access control practices.
 
@@ -12,3 +12,7 @@
 2. Gather logs + recent change history.
 3. Apply mitigation (rollback, config revert, access lockdown).
 4. Confirm recovery and add preventive controls.
+
+## Source Links
+
+- [source:managed-hosting-docs] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Developers Docs Hub
