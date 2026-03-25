@@ -2,7 +2,7 @@
 
 ## Product intent
 
-Local is a dedicated WordPress local development environment.
+Local is a dedicated WordPress local development environment. [source:local-docs]
 
 ## Capabilities highlighted in WP Engine docs
 
@@ -14,3 +14,8 @@ Local is a dedicated WordPress local development environment.
 - Live Links for external sharing.
 - Integrated WP-CLI and shell access.
 - Extension ecosystem.
+
+## Source Links
+
+- [source:local-docs] https://developers.wpengine.com/docs/local — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Local docs
+- [source:local-site] https://localwp.com/ — Retrieved: 2026-03-25 (UTC) — Title: Local product site
