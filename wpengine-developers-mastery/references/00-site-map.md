@@ -60,6 +60,12 @@ _Last synthesized: 2026-03-25 (UTC). [source:source-manifest]_
 
 ## Agent operating protocol
 
+1. Check `manifest.json` first to find candidate files by product/subproduct/topics.
+2. Identify product bucket first.
+3. Load product `overview.md`.
+4. Load matching `*-subpages.md` file.
+5. Answer with procedural structure + risk controls.
+6. Validate precise API details against live docs before production.
 1. Identify product bucket first.
 2. Load product `overview.md`.
 3. Load matching `*-subpages.md` file.

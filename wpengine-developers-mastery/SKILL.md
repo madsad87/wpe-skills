@@ -9,10 +9,11 @@ Use this skill to answer WP Engine developer questions with product-aware routin
 
 ## Load order
 
-1. Read `references/00-site-map.md` for global navigation and routing rules.
-2. Read `catalog/README.md` to select product + subpage knowledge files.
-3. Read only relevant product folder contents.
-4. Validate critical details against live docs before production changes.
+1. Read `manifest.json` first and use it as the primary lookup index for file selection.
+2. Read `references/00-site-map.md` for global navigation and routing rules.
+3. Read `catalog/README.md` to select product + subpage knowledge files.
+4. Read only relevant product folder contents.
+5. Validate critical details against live docs before production changes.
 
 ## Folder map
 
