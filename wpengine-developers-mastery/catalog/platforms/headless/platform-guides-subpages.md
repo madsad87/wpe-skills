@@ -4,7 +4,7 @@
 
 ### Knowledge contained
 
-- Mapping custom domains to app environments.
+- Mapping custom domains to app environments. [source:atlas-domain-mapping]
 - Primary domain assignment and redirect logic.
 - Environment-specific domain strategy (dev/stage/prod).
 
@@ -19,7 +19,7 @@
 
 ### Knowledge contained
 
-- Accessing runtime application logs.
+- Accessing runtime application logs. [source:atlas-runtime-logs]
 - Interpreting errors by deployment and timestamp.
 - Correlating failures to specific release events.
 
@@ -35,3 +35,8 @@
 - Build/start command overrides.
 - Environment variable management.
 - Performance and reliability hardening.
+
+## Source Links
+
+- [source:atlas-domain-mapping] https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas domain mapping guide
+- [source:atlas-runtime-logs] https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas runtime logs guide

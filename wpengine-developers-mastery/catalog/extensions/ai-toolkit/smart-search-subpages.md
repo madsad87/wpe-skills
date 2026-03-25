@@ -4,7 +4,7 @@
 
 ### Knowledge contained
 
-- GraphQL query interface for document retrieval.
+- GraphQL query interface for document retrieval. [source:smart-search-find-api]
 - Query operators for text matching, filters, ranking, and response shaping.
 - Advanced retrieval options (semantic/hybrid modes where enabled).
 
@@ -26,6 +26,11 @@
 
 ### Knowledge contained
 
-- Content ingestion/index-update behavior.
+- Content ingestion/index-update behavior. [source:ai-toolkit-overview]
 - Schema and metadata strategy for filterable search.
 - Re-index/rebuild considerations after model/content changes.
+
+## Source Links
+
+- [source:smart-search-find-api] https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/ — Retrieved: 2026-03-25 (UTC) — Title: Smart Search Find API docs
+- [source:ai-toolkit-overview] https://developers.wpengine.com/docs/wp-engine-ai-toolkit/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine AI Toolkit docs overview

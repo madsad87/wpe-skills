@@ -40,9 +40,12 @@ Use for Smart Search optimization.
 4. Validation protocol
 5. Monitoring and iteration cadence
 
-## Citation discipline (for agents)
+## Citation discipline (for agents) [source:citation-best-practice]
 
 - Cite page URLs for critical claims.
 - Mark inferred guidance as inference.
 - Separate hard facts from best-practice opinion.
 
+## Source Links
+
+- [source:citation-best-practice] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine docs root used for source citation alignment

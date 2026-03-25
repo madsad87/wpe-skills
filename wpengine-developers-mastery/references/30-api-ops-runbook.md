@@ -2,7 +2,7 @@
 
 ## 1) Standard troubleshooting funnel
 
-1. **Scope**: Which product area? (Headless, AI Toolkit, plugin/tooling)
+1. **Scope**: Which product area? (Headless, AI Toolkit, plugin/tooling) [source:wpengine-docs-hub]
 2. **Environment**: Dev/staging/prod; identify exact target.
 3. **Change event**: What changed (deploy, DNS, config, index, plugin)?
 4. **Signals**: Logs, errors, request traces, behavior differences.
@@ -27,7 +27,7 @@
 - Wrong site shows: domain mapped to incorrect environment
 - Redirect loops: conflicting redirect policy across layers
 
-## 4) Search quality issue matrix (AI Toolkit)
+## 4) Search quality issue matrix (AI Toolkit) [source:smart-search-find-api]
 
 - Low precision: add filters, boost exact fields
 - Low recall: widen tolerance and semantic support
@@ -56,3 +56,8 @@ When escalating internally, include:
 - Reproduction steps
 - Impact scope and urgency
 
+## Source Links
+
+- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Developers Docs Hub
+- [source:atlas-runtime-logs] https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas runtime logs guide
+- [source:smart-search-find-api] https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/ — Retrieved: 2026-03-25 (UTC) — Title: Smart Search Find API docs

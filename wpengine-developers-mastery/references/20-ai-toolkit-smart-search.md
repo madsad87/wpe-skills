@@ -2,11 +2,11 @@
 
 ## 1) Product mental model
 
-Smart Search exposes a query interface for searching indexed content with relevance controls and advanced retrieval features.
+Smart Search exposes a query interface for searching indexed content with relevance controls and advanced retrieval features. [source:smart-search-find-api]
 
 At a high level:
 - Content is indexed into searchable documents.
-- Clients query using GraphQL.
+- Clients query using GraphQL. [source:smart-search-find-api]
 - Response returns matching docs, scores, and selected fields.
 
 ## 2) Find API capability map
@@ -74,3 +74,7 @@ When responding with Smart Search derived content:
 3. Call out uncertainty or sparse-index cases.
 4. Recommend next query refinement when confidence is low.
 
+## Source Links
+
+- [source:smart-search-find-api] https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/ — Retrieved: 2026-03-25 (UTC) — Title: Smart Search Find API docs
+- [source:plugin-overview] https://developers.wpengine.com/docs/wp-engine-ai-toolkit/plugin/overview/ — Retrieved: 2026-03-25 (UTC) — Title: AI Toolkit plugin overview

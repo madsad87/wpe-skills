@@ -2,7 +2,7 @@
 
 ## 1) Platform purpose
 
-Headless Platform supports deploying and operating Node.js-based frontends backed by WordPress as a content source.
+Headless Platform supports deploying and operating Node.js-based frontends backed by WordPress as a content source. [source:atlas-create-app]
 
 Typical use cases:
 - Decoupled WordPress + frontend app architecture
@@ -29,13 +29,13 @@ Typical use cases:
 
 ### Step 4: Map domains
 
-- Attach custom domain(s) to target environment.
+- Attach custom domain(s) to target environment. [source:atlas-domain-mapping]
 - Define primary domain and redirect behavior.
 - Review robots behavior and backend-domain strategy.
 
 ### Step 5: Observe runtime logs
 
-- Use runtime logs to inspect startup, requests, errors, and stack traces.
+- Use runtime logs to inspect startup, requests, errors, and stack traces. [source:atlas-runtime-logs]
 - Triage by environment and deployment version.
 
 ## 3) Domain mapping model
@@ -101,3 +101,9 @@ When incidents occur:
 - Structured release promotion
 - Log-driven monitoring + rollback path
 
+## Source Links
+
+- [source:atlas-create-app] https://developers.wpengine.com/docs/atlas/getting-started/create-app/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas create app guide
+- [source:atlas-deploy-repo] https://developers.wpengine.com/docs/atlas/getting-started/deploy-from-existing-repo/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas deploy from existing repo guide
+- [source:atlas-domain-mapping] https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas domain mapping guide
+- [source:atlas-runtime-logs] https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas runtime logs guide

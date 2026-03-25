@@ -2,7 +2,7 @@
 
 ## Scope
 
-Managed Hosting Platform documentation focuses on WordPress hosting lifecycle operations and platform capabilities.
+Managed Hosting Platform documentation focuses on WordPress hosting lifecycle operations and platform capabilities. [source:managed-hosting-docs]
 
 ## Common knowledge domains
 
@@ -14,3 +14,7 @@ Managed Hosting Platform documentation focuses on WordPress hosting lifecycle op
 ## Agent guidance
 
 - Use this product area when requests are about hosted WordPress infrastructure instead of decoupled headless app runtimes.
+
+## Source Links
+
+- [source:managed-hosting-docs] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Developers Docs Hub
