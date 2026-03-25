@@ -45,7 +45,8 @@ This catalog is organized by the same top-level product taxonomy shown in WP Eng
 
 ## How to use with an agent
 
-1. Detect product scope from the user request.
-2. Open the product `overview.md`.
-3. Open the corresponding `*-subpages.md` file for granular knowledge clusters.
-4. Produce answer using templates in `references/40-agent-response-templates.md`.
+1. Open `manifest.json` and filter by `product`, `subproduct`, and `topics`.
+2. Detect product scope from the user request.
+3. Open the product `overview.md`.
+4. Open the corresponding `*-subpages.md` file for granular knowledge clusters.
+5. Produce answer using templates in `references/40-agent-response-templates.md`.

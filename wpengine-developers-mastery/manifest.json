@@ -1,0 +1,477 @@
+[
+  {
+    "path": "SKILL.md",
+    "product": "Skill Framework",
+    "subproduct": "wpengine-developers-mastery",
+    "topics": [
+      "routing",
+      "lookup-order",
+      "agent-protocol"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "catalog/README.md",
+    "product": "Catalog",
+    "subproduct": "global",
+    "topics": [
+      "taxonomy",
+      "file-map",
+      "lookup-workflow"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "catalog/extensions/ai-toolkit/overview.md",
+    "product": "AI Toolkit",
+    "subproduct": "overview",
+    "topics": [
+      "smart-search",
+      "recommendations",
+      "vector-database",
+      "plugin-development"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/plugin/overview/",
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "catalog/extensions/ai-toolkit/plugin-developer-subpages.md",
+    "product": "AI Toolkit",
+    "subproduct": "plugin-developer-subpages",
+    "topics": [
+      "smart-search",
+      "recommendations",
+      "vector-database",
+      "plugin-development"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/plugin/overview/",
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/extensions/ai-toolkit/recommendations-subpages.md",
+    "product": "AI Toolkit",
+    "subproduct": "recommendations-subpages",
+    "topics": [
+      "smart-search",
+      "recommendations",
+      "vector-database",
+      "plugin-development"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/plugin/overview/",
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/extensions/ai-toolkit/smart-search-subpages.md",
+    "product": "AI Toolkit",
+    "subproduct": "smart-search-subpages",
+    "topics": [
+      "smart-search",
+      "recommendations",
+      "vector-database",
+      "plugin-development"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/plugin/overview/",
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/extensions/ai-toolkit/vector-database-subpages.md",
+    "product": "AI Toolkit",
+    "subproduct": "vector-database-subpages",
+    "topics": [
+      "smart-search",
+      "recommendations",
+      "vector-database",
+      "plugin-development"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/plugin/overview/",
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/extensions/nitropack/overview.md",
+    "product": "NitroPack",
+    "subproduct": "overview",
+    "topics": [
+      "performance",
+      "caching",
+      "optimization"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "catalog/platforms/headless/api-reference-subpages.md",
+    "product": "Headless Platform",
+    "subproduct": "api-reference-subpages",
+    "topics": [
+      "atlas",
+      "headless-wordpress",
+      "deployments",
+      "apis"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/atlas/getting-started/create-app/",
+      "https://developers.wpengine.com/docs/atlas/getting-started/deploy-from-existing-repo/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/headless/framework-guides-subpages.md",
+    "product": "Headless Platform",
+    "subproduct": "framework-guides-subpages",
+    "topics": [
+      "atlas",
+      "headless-wordpress",
+      "deployments",
+      "apis"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/atlas/getting-started/create-app/",
+      "https://developers.wpengine.com/docs/atlas/getting-started/deploy-from-existing-repo/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/headless/getting-started-subpages.md",
+    "product": "Headless Platform",
+    "subproduct": "getting-started-subpages",
+    "topics": [
+      "atlas",
+      "headless-wordpress",
+      "deployments",
+      "apis"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/atlas/getting-started/create-app/",
+      "https://developers.wpengine.com/docs/atlas/getting-started/deploy-from-existing-repo/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/headless/overview.md",
+    "product": "Headless Platform",
+    "subproduct": "overview",
+    "topics": [
+      "atlas",
+      "headless-wordpress",
+      "deployments",
+      "apis"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/atlas/getting-started/create-app/",
+      "https://developers.wpengine.com/docs/atlas/getting-started/deploy-from-existing-repo/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "catalog/platforms/headless/platform-guides-subpages.md",
+    "product": "Headless Platform",
+    "subproduct": "platform-guides-subpages",
+    "topics": [
+      "atlas",
+      "headless-wordpress",
+      "deployments",
+      "apis"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/atlas/getting-started/create-app/",
+      "https://developers.wpengine.com/docs/atlas/getting-started/deploy-from-existing-repo/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/domain-mapping/",
+      "https://developers.wpengine.com/docs/atlas/platform-guides/runtime-logs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/managed-hosting/domains-ssl-and-routing.md",
+    "product": "Managed Hosting Platform",
+    "subproduct": "domains-ssl-and-routing",
+    "topics": [
+      "hosting",
+      "operations",
+      "domains",
+      "environments"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/managed-hosting/onboarding-and-environments.md",
+    "product": "Managed Hosting Platform",
+    "subproduct": "onboarding-and-environments",
+    "topics": [
+      "hosting",
+      "operations",
+      "domains",
+      "environments"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/managed-hosting/operations-observability-and-security.md",
+    "product": "Managed Hosting Platform",
+    "subproduct": "operations-observability-and-security",
+    "topics": [
+      "hosting",
+      "operations",
+      "domains",
+      "environments"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/platforms/managed-hosting/overview.md",
+    "product": "Managed Hosting Platform",
+    "subproduct": "overview",
+    "topics": [
+      "hosting",
+      "operations",
+      "domains",
+      "environments"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/plugins/advanced-custom-fields/key-concepts-subpages.md",
+    "product": "Advanced Custom Fields",
+    "subproduct": "key-concepts-subpages",
+    "topics": [
+      "custom-fields",
+      "field-groups",
+      "meta-data"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "catalog/plugins/advanced-custom-fields/overview.md",
+    "product": "Advanced Custom Fields",
+    "subproduct": "overview",
+    "topics": [
+      "custom-fields",
+      "field-groups",
+      "meta-data"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "catalog/plugins/delicious-brains-suite/overview.md",
+    "product": "Delicious Brains Suite",
+    "subproduct": "overview",
+    "topics": [
+      "migration",
+      "media-offload",
+      "database-search-replace"
+    ],
+    "source_urls": [
+      "https://deliciousbrains.com/",
+      "https://bettersearchreplace.com/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "medium"
+  },
+  {
+    "path": "catalog/tools/faust-js/overview.md",
+    "product": "Faust.js",
+    "subproduct": "overview",
+    "topics": [
+      "headless-wordpress",
+      "nextjs",
+      "faustjs"
+    ],
+    "source_urls": [
+      "https://faustjs.org/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "catalog/tools/local/overview.md",
+    "product": "Local",
+    "subproduct": "overview",
+    "topics": [
+      "local-development",
+      "workflows",
+      "wordpress-tooling"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/local",
+      "https://localwp.com/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "catalog/tools/local/workflow-capabilities-subpages.md",
+    "product": "Local",
+    "subproduct": "workflow-capabilities-subpages",
+    "topics": [
+      "local-development",
+      "workflows",
+      "wordpress-tooling"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/local",
+      "https://localwp.com/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  },
+  {
+    "path": "references/00-site-map.md",
+    "product": "Reference",
+    "subproduct": "00-site-map",
+    "topics": [
+      "indexing",
+      "routing",
+      "response-template"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "references/10-headless-platform.md",
+    "product": "Reference",
+    "subproduct": "10-headless-platform",
+    "topics": [
+      "indexing",
+      "routing",
+      "response-template"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "references/20-ai-toolkit-smart-search.md",
+    "product": "Reference",
+    "subproduct": "20-ai-toolkit-smart-search",
+    "topics": [
+      "indexing",
+      "routing",
+      "response-template"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "references/30-api-ops-runbook.md",
+    "product": "Reference",
+    "subproduct": "30-api-ops-runbook",
+    "topics": [
+      "indexing",
+      "routing",
+      "response-template"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "references/40-agent-response-templates.md",
+    "product": "Reference",
+    "subproduct": "40-agent-response-templates",
+    "topics": [
+      "indexing",
+      "routing",
+      "response-template"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "inferred"
+  },
+  {
+    "path": "references/99-source-manifest.md",
+    "product": "Reference",
+    "subproduct": "99-source-manifest",
+    "topics": [
+      "indexing",
+      "routing",
+      "response-template"
+    ],
+    "source_urls": [
+      "https://developers.wpengine.com/docs/",
+      "https://developers.wpengine.com/docs/local",
+      "https://developers.wpengine.com/docs/atlas/getting-started/create-app/",
+      "https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/"
+    ],
+    "last_verified_utc": "2026-03-25T00:00:00Z",
+    "confidence": "high"
+  }
+]
