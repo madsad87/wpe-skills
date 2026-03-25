@@ -7,6 +7,11 @@ This knowledge pack synthesizes content and navigation structure from publicly i
 - https://developers.wpengine.com/docs/
 - https://developers.wpengine.com/docs/local
 
+## Docs hub sections (navigation/context)
+
+- https://developers.wpengine.com/docs/#understanding-wp-engines-docs
+- https://developers.wpengine.com/docs/#diataxis-framework
+
 ## Headless Platform seed pages
 
 - https://developers.wpengine.com/docs/atlas/getting-started/create-app/
@@ -33,7 +38,7 @@ This knowledge pack synthesizes content and navigation structure from publicly i
 
 ## Source Links
 
-- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Developers Docs Hub
+- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Product Documentation
 - [source:local-docs] https://developers.wpengine.com/docs/local — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Local docs
 - [source:atlas-create-app] https://developers.wpengine.com/docs/atlas/getting-started/create-app/ — Retrieved: 2026-03-25 (UTC) — Title: Atlas create app guide
 - [source:smart-search-find-api] https://developers.wpengine.com/docs/wp-engine-ai-toolkit/smart-search/find-api/ — Retrieved: 2026-03-25 (UTC) — Title: Smart Search Find API docs

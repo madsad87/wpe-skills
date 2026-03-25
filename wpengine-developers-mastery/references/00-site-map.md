@@ -20,6 +20,11 @@ _Last synthesized: 2026-03-25 (UTC). [source:source-manifest]_
   - Faust.js
   - Local
 
+## Documentation framework pages on docs hub [source:wpengine-docs-hub]
+
+- Understanding WP Engine's Docs
+- Diátaxis Framework
+
 ## Product-to-folder routing
 
 - Managed Hosting Platform → `catalog/platforms/managed-hosting/`
@@ -66,13 +71,8 @@ _Last synthesized: 2026-03-25 (UTC). [source:source-manifest]_
 4. Load matching `*-subpages.md` file.
 5. Answer with procedural structure + risk controls.
 6. Validate precise API details against live docs before production.
-1. Identify product bucket first.
-2. Load product `overview.md`.
-3. Load matching `*-subpages.md` file.
-4. Answer with procedural structure + risk controls.
-5. Validate precise API details against live docs before production.
 
 ## Source Links
 
-- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Developers Docs Hub
+- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Product Documentation
 - [source:source-manifest] ./99-source-manifest.md — Retrieved: 2026-03-25 (UTC) — Title: Internal source manifest
