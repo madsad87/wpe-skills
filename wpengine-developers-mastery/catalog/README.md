@@ -49,13 +49,9 @@ This catalog is organized by the same top-level product taxonomy shown in WP Eng
 2. Detect product scope from the user request.
 3. Open the product `overview.md`.
 4. Open the corresponding `*-subpages.md` file for granular knowledge clusters.
-5. Produce answer using templates in `references/40-agent-response-templates.md`.
-1. Detect product scope from the user request.
-2. Open the product `overview.md`.
-3. Open the corresponding `*-subpages.md` file for granular knowledge clusters.
-4. Produce answer using templates in `references/40-agent-response-templates.md`. [source:agent-templates]
+5. Produce answer using templates in `references/40-agent-response-templates.md`. [source:agent-templates]
 
 ## Source Links
 
-- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Developers Docs Hub
+- [source:wpengine-docs-hub] https://developers.wpengine.com/docs/ — Retrieved: 2026-03-25 (UTC) — Title: WP Engine Product Documentation
 - [source:agent-templates] ../references/40-agent-response-templates.md — Retrieved: 2026-03-25 (UTC) — Title: Agent response template file in this repo
